@@ -70,6 +70,8 @@ public class ReadFirstFile {
 				}
 
 			}
+			
+			
 
 			if (selectedRow.equals("")) {
 				System.out.println("Base Number doesn't contain.");

@@ -21,6 +21,7 @@ public class ReadInput {
 	
 		int sum = Integer.parseInt(num1) + Integer.parseInt(num2);
 		System.out.println("Sum is > "+sum);
+		
 	}
 
 }
